@@ -31,6 +31,6 @@ set the volume,  value should be between 0 and 1, where 0 is mute
 
 ## write({freq: freq, gain: gain})
 
-set frequence and gain with an object. this is a write compatible
+set frequence and gain with an object. this is a stream compatible
 write method.
 
